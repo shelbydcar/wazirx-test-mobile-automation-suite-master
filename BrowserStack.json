@@ -1,0 +1,18 @@
+{
+	"testfiles":[
+		{
+		 "Username" : "SalviTrupti",
+		 "Separator1" : ":",
+		 "Access_key" : "8afe59ef-20f7-43c3-9c3a-a557378fcfe8",
+		 "Separator2" : "@",
+		 "Remote url" :"us1.appium.testobject.com/wd/hub",
+		 "DESIRED_CAPABILITIES" : {"name":"GalaxxyTab",
+		 	        "testobject_api_key":"07DAAE2A96744AA8BA8F0096123D38EB",
+					"platformName":"ANDROID",
+					"platformVersion":"",
+					"DeviceName":"Samsung Galaxy S10e",
+					"phoneOnly":"True"}
+		}
+	]
+}
+

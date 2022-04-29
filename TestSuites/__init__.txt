@@ -1,0 +1,4 @@
+*** Settings ***
+Suite Setup       # Launch Browser
+Suite Teardown    # Close All Browser sessions
+Resource          ../~DEPENDENCIES.txt

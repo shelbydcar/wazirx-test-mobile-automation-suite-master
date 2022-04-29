@@ -1,0 +1,28 @@
+*** Settings ***
+Library           String
+Resource          Common/Keywords/Common-Keywords.robot
+Resource          Common/Keywords/Settings-Keywords.robot
+Resource          Common/Keywords/Funds-Keywords.robot
+Resource          Common/Keywords/Exchange-Keywords.robot
+Resource          Common/Keywords/Quick-Buy-Keywords.robot
+Resource          Common/Keywords/New-User-Keywords.robot
+Resource          Common/Variables/Common-Variables.robot
+Resource          Common/Locators/Common-Locators.robot
+Resource          Common/Locators/Settings-Locators.robot
+Resource          Common/Locators/Exchange-Locators.robot
+Resource          Common/Locators/Quick-Buy-Locators.robot
+Resource          Common/Locators/Funds-Locators.robot
+Library           AppiumLibrary
+Library           RequestsLibrary
+Library           OperatingSystem
+Resource          Common/Keywords/API.robot
+Library           Collections
+Library           ImapLibrary
+Library           Collections
+Library           String
+Library           DateTime
+
+Library             Process
+Library             OperatingSystem
+
+
